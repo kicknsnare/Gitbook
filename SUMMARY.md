@@ -10,4 +10,5 @@
     * [Task 5](snort/walktrough/task-5.md)
     * [Task 6](snort/walktrough/task-6/README.md)
       * [Walkthrough](snort/walktrough/task-6/walkthrough.md)
-    * [Task 7 IDS/IPS](snort/walktrough/task-7-ids-ips.md)
+    * [Task 7 IDS/IPS](snort/walktrough/task-7-ids-ips/README.md)
+      * [Important information](snort/walktrough/task-7-ids-ips/important-information.md)
