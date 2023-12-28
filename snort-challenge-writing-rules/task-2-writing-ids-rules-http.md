@@ -1,5 +1,10 @@
 # Task 2 Writing IDS Rules HTTP
 
+```bash
+#Commands that I used:
+snort -c local.rules -A full -l . -r mx-3.pcap
+```
+
 Use the given pcap file.\
 
 
@@ -11,7 +16,9 @@ Note: You must answer this question correctly before answering the rest of the q
 
 <mark style="color:yellow;">328</mark>
 
+&#x20;
 
+<figure><img src="https://camo.githubusercontent.com/773ef4dd00c3848cbd8f9db10ff6478b4a9ee4f1fdbd6f1fc2abcfb6683eff6d/68747470733a2f2f692e696d6775722e636f6d2f564c316a7931632e706e67" alt=""><figcaption></figcaption></figure>
 
 Investigate the log file.\
 
