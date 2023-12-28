@@ -2,7 +2,7 @@
 
 ```bash
 #commands that I used:
-
+sudo strings <snort_log> | grep 220 | head
 ```
 
 Navigate to the task folder.
@@ -25,7 +25,15 @@ What is the FTP service name?
 
 <mark style="color:yellow;">Microsoft FTP Service</mark>
 
+&#x20;
 
+```bash
+sudo strings <snort_log> | grep 220 | head
+```
+
+&#x20;For this one I had to do some research. 220 signifies a succesful response and indicates that the FTP server is ready for a new user to authenticate or initiate
+
+<figure><img src="https://camo.githubusercontent.com/d623cbd4e7b696c280d626574b4c35c5cabd6b86bb911f9741dcad3ff44cfde8/68747470733a2f2f692e696d6775722e636f6d2f4f36546a6e37442e706e67" alt=""><figcaption></figcaption></figure>
 
 Clear the previous log and alarm files.
 
