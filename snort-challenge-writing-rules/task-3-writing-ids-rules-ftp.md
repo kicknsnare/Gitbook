@@ -2,6 +2,7 @@
 
 ```bash
 #commands that I used:
+snort -c local.rules -A full -l . -r <file>
 sudo strings <snort_log> | grep 220 | head
 ```
 
