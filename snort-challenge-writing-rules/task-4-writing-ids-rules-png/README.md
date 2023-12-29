@@ -8,6 +8,9 @@
 #Commands that I used:
 snort -c local.rules -A full -l . -r ftp-png-gif.pcap
 sudo strings ftp-png-gif.pcap
+###IMPORTANT###
+snort -d -r <snort_log>
+#For this command you will use snort and get the same answers as with strings
 ```
 
 **`Let's create IDS Rules for PNG files in the traffic!Answer the questions below`**
