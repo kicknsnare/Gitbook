@@ -51,6 +51,7 @@
   * [Introduction](snort-live-attacks/introduction.md)
   * [Task 2 Brute Force](snort-live-attacks/task-2-brute-force/README.md)
     * [Walkthrough](snort-live-attacks/task-2-brute-force/walkthrough.md)
+    * [Notes](snort-live-attacks/task-2-brute-force/notes.md)
   * [Task 3 Reverse Shell](snort-live-attacks/task-3-reverse-shell/README.md)
     * [Walkthrough](snort-live-attacks/task-3-reverse-shell/walkthrough.md)
   * [Skills Learned](snort-live-attacks/skills-learned.md)
