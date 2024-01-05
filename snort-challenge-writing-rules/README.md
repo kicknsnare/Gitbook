@@ -1,2 +1,0 @@
-# Snort Challenge Writing RULES
-
