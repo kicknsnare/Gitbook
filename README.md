@@ -1,2 +1,2 @@
-# 📣 Snort
+# 🎈 Introduction to SIEM
 
